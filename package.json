@@ -1,0 +1,8 @@
+{
+  "name": "tech-demos",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "echo \"Run bun run dev from apps/<slug>/\""
+  }
+}
