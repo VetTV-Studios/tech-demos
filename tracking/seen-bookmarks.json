@@ -1,5 +1,63 @@
 {
   "proposed": [],
-  "skipped": [],
-  "built": []
+  "skipped": [
+    {
+      "id": "2102946262274257192",
+      "url": "https://x.com/alphafox/status/2102946262274257192",
+      "reason": "X Space / live audio, not a library demo"
+    },
+    {
+      "id": "2101899211575001338",
+      "url": "https://x.com/KICKEthan/status/2101899211575001338",
+      "reason": "Kick Partner Program ops announcement, not demo-worthy tech"
+    },
+    {
+      "id": "2102543807891775523",
+      "url": "https://x.com/Kick_Champ/status/2102543807891775523",
+      "reason": "streamer crime gossip"
+    },
+    {
+      "id": "2102535279257018720",
+      "url": "https://x.com/Kick_Champ/status/2102535279257018720",
+      "reason": "streamer crime gossip"
+    },
+    {
+      "id": "2100005781416398970",
+      "url": "https://x.com/The_Joker/status/2100005781416398970",
+      "reason": "personal photo, not tech"
+    },
+    {
+      "id": "2099176278557413750",
+      "url": "https://x.com/jeffdornik/status/2099176278557413750",
+      "reason": "PickaxSocial product pitch, not a library/tool for a small Bun demo"
+    },
+    {
+      "id": "2098226413895819501",
+      "url": "https://x.com/90sManiax/status/2098226413895819501",
+      "reason": "nostalgia ad clip"
+    },
+    {
+      "id": "2098151226089034144",
+      "url": "https://x.com/RetroNewsNow/status/2098151226089034144",
+      "reason": "retro TV debut clip"
+    },
+    {
+      "id": "2097841838463779145",
+      "url": "https://x.com/The_Joker/status/2097841838463779145",
+      "reason": "streamer drama"
+    },
+    {
+      "id": "2096299583710126365",
+      "url": "https://x.com/RetroNewsNow/status/2096299583710126365",
+      "reason": "retro TV debut clip"
+    },
+    {
+      "id": "2094782409111683542",
+      "url": "https://x.com/theghostegg/status/2094782409111683542",
+      "reason": "art post, not tech"
+    }
+  ],
+  "built": [],
+  "last_scout": "2026-09-24",
+  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account; all recent bookmarks were non-demo noise."
 }
