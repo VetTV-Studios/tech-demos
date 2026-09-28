@@ -2,6 +2,36 @@
   "proposed": [],
   "skipped": [
     {
+      "id": "2103947617227194791",
+      "url": "https://x.com/venturetwins/status/2103947617227194791",
+      "reason": "viral cat-as-Apple-product meme video, not a library/tool for a Bun demo"
+    },
+    {
+      "id": "2103979335707496495",
+      "url": "https://x.com/dohertyjackk/status/2103979335707496495",
+      "reason": "crypto giveaway spam, not demo-worthy tech"
+    },
+    {
+      "id": "2103587244871127072",
+      "url": "https://x.com/barragers/status/2103587244871127072",
+      "reason": "streamer protest meme, not a library demo"
+    },
+    {
+      "id": "2103639444670529996",
+      "url": "https://x.com/TaraBull/status/2103639444670529996",
+      "reason": "politics/news about booster-seat law, not tech"
+    },
+    {
+      "id": "2103590549454266509",
+      "url": "https://x.com/The_Joker/status/2103590549454266509",
+      "reason": "streamer management firm hype, not a library/tool"
+    },
+    {
+      "id": "2103545072071397608",
+      "url": "https://x.com/rootappofficial/status/2103545072071397608",
+      "reason": "Root app product ad (Discord/Minecraft companion), not a small Bun library demo"
+    },
+    {
       "id": "2103107863463989565",
       "url": "https://x.com/WWE/status/2103107863463989565",
       "reason": "WWE/Rumble distribution partnership news, not a library/tool for a Bun demo"
@@ -63,6 +93,6 @@
     }
   ],
   "built": [],
-  "last_scout": "2026-09-25",
-  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account; all recent bookmarks were non-demo noise."
+  "last_scout": "2026-09-28",
+  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account; all recent bookmarks were non-demo noise (meme, crypto spam, streamer/politics, product ads)."
 }
