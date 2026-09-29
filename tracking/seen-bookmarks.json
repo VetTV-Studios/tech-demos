@@ -2,6 +2,11 @@
   "proposed": [],
   "skipped": [
     {
+      "id": "2104622394635899003",
+      "url": "https://x.com/blankspeaker/status/2104622394635899003",
+      "reason": "X/SpaceXAI subscription product news (Cursor+Grok+X plan), not a library/tool for a Bun demo"
+    },
+    {
       "id": "2103947617227194791",
       "url": "https://x.com/venturetwins/status/2103947617227194791",
       "reason": "viral cat-as-Apple-product meme video, not a library/tool for a Bun demo"
@@ -93,6 +98,6 @@
     }
   ],
   "built": [],
-  "last_scout": "2026-09-28",
-  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account; all recent bookmarks were non-demo noise (meme, crypto spam, streamer/politics, product ads)."
+  "last_scout": "2026-09-29",
+  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account; all recent bookmarks were non-demo noise (meme, crypto spam, streamer/politics, product ads, subscription news)."
 }
