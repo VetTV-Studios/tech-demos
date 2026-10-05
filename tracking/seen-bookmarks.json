@@ -2,6 +2,56 @@
   "proposed": [],
   "skipped": [
     {
+      "id": "2106953379633074334",
+      "url": "https://x.com/ClassicII_MrMac/status/2106953379633074334",
+      "reason": "Mac nostalgia reaction photo, not a library/tool for a Bun demo"
+    },
+    {
+      "id": "2106554943759089830",
+      "url": "https://x.com/RetroNewsNow/status/2106554943759089830",
+      "reason": "retro TV schedule clip, not tech"
+    },
+    {
+      "id": "2106392578757362094",
+      "url": "https://x.com/OldSchool80s/status/2106392578757362094",
+      "reason": "retro TV debut nostalgia, not a library demo"
+    },
+    {
+      "id": "2106011091264582082",
+      "url": "https://x.com/KannagiFiles/status/2106011091264582082",
+      "reason": "Windows nostalgia reply, not a concrete library/tool for a Bun demo"
+    },
+    {
+      "id": "2105937347808317824",
+      "url": "https://x.com/reactos/status/2105937347808317824",
+      "reason": "ReactOS OS screenshot/news, not a small Bun web library demo"
+    },
+    {
+      "id": "2106028870608564661",
+      "url": "https://x.com/WatcherGuru/status/2106028870608564661",
+      "reason": "YouTube product policy news, not a library/tool"
+    },
+    {
+      "id": "2105863223484559686",
+      "url": "https://x.com/RetroNewsNow/status/2105863223484559686",
+      "reason": "Pizza Hut BOOK IT nostalgia, not tech"
+    },
+    {
+      "id": "2105793219699060828",
+      "url": "https://x.com/ToonHive/status/2105793219699060828",
+      "reason": "Curious George entertainment news, not a library demo"
+    },
+    {
+      "id": "2105448037724418322",
+      "url": "https://x.com/USA250_COIN/status/2105448037724418322",
+      "reason": "crypto X Space, not demo-worthy tech"
+    },
+    {
+      "id": "2105072216631021810",
+      "url": "https://x.com/USA250DIN/status/2105072216631021810",
+      "reason": "crypto giveaway Space, not demo-worthy tech"
+    },
+    {
       "id": "2104622394635899003",
       "url": "https://x.com/blankspeaker/status/2104622394635899003",
       "reason": "X/SpaceXAI subscription product news (Cursor+Grok+X plan), not a library/tool for a Bun demo"
@@ -98,6 +148,6 @@
     }
   ],
   "built": [],
-  "last_scout": "2026-09-29",
-  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account; all recent bookmarks were non-demo noise (meme, crypto spam, streamer/politics, product ads, subscription news)."
+  "last_scout": "2026-10-05",
+  "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account (@VetTVStudios); all recent bookmarks were non-demo noise (retro/nostalgia, streamer/crypto, product ads, OS news not suited to a Bun web demo)."
 }
