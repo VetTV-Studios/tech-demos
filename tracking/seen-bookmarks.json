@@ -2,6 +2,16 @@
   "proposed": [],
   "skipped": [
     {
+      "id": "2108157143002001613",
+      "url": "https://x.com/joanaRhey/status/2108157143002001613",
+      "reason": "personal/fitness video post, not tech"
+    },
+    {
+      "id": "2108210840176369847",
+      "url": "https://x.com/Breaking911/status/2108210840176369847",
+      "reason": "politics news clip about Microsoft hiring, not a library/tool"
+    },
+    {
       "id": "2106953379633074334",
       "url": "https://x.com/ClassicII_MrMac/status/2106953379633074334",
       "reason": "Mac nostalgia reaction photo, not a library/tool for a Bun demo"
@@ -148,6 +158,6 @@
     }
   ],
   "built": [],
-  "last_scout": "2026-10-05",
+  "last_scout": "2026-10-09",
   "note": "No Product Demos / Agent Examples / Design / DevRel folders on connected X account (@VetTVStudios); all recent bookmarks were non-demo noise (retro/nostalgia, streamer/crypto, product ads, OS news not suited to a Bun web demo)."
 }
